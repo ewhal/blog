@@ -1,6 +1,6 @@
 +++
-date = "2016-05-14T20:40:50+10:00"
-draft = true
+date = "2016-05-15T19:26:22+10:00"
+draft = false
 title = "internet radio raspi"
 
 +++
@@ -30,6 +30,7 @@ I started out by soldering leads unto the potentiometers and soldering the pins 
 Once that was done I consulted a [GPIO](http://raspi.tv/2014/rpi-gpio-quick-reference-updated-for-raspberry-pi-b) reference sheet for the Raspberry Pi model b+.
 ![GPIO layout](http://www.raspberrypi-spy.co.uk/wp-content/uploads/2014/07/Raspberry-Pi-GPIO-Layout-Model-B-Plus-rotated.png)
 
+![Schem](https://u.pantsu.cat/ozdxpu.png)
 Once that was done I then connected leads to random unused GPIO ports and to ground. 
 These leads then were connected to the buttons.
 Now the buttons are for IP address, stop, start, prev, next, volume down and volume up.
