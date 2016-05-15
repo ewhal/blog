@@ -1,3 +1,10 @@
 baseurl = "https://blog.pantsu.cat"
 languageCode = "en-us"
 title = "Pantsu Blog"
+
+[Params]
+git = "https://git.pantsu.cat/ewhal"
+showsRSS = true
+copyright = "©2016 Eliot Whalan. Except where otherwise noted, verbatim copying and distribution of this entire article are permitted worldwide, without royalty, in any medium, provided this notice is preserved."
+analytics = "UA-XXXXXXXX-X"
+shareThis = "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
