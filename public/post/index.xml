@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pantsu Blog</title>
+    <link>https://blog.pantsu.cat/post/</link>
+    <description>Recent content in Posts on Pantsu Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 May 2016 16:35:41 +1000</lastBuildDate>
+    <atom:link href="https://blog.pantsu.cat/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>https://blog.pantsu.cat/post/welcome/</link>
+      <pubDate>Sun, 15 May 2016 16:35:41 +1000</pubDate>
+      
+      <guid>https://blog.pantsu.cat/post/welcome/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-pantsu-blog:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Welcome to Pantsu Blog&lt;/h1&gt;
+
+&lt;p&gt;The intention of this blog is to post random projects and thoughts.
+For the blog I decided to go with a static blog generator over a traditional CMS.
+For this static blog generator I selected Hugo with the Angels Ladder theme.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
