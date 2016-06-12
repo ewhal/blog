@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Pantsu Blog"
 
 [Params]
-git = "https://github.com/ewhalan"
+git = "https://github.com/ewhal"
 twitter = "https://twitter.com/EliotWhalan"
 showsRSS = true
 copyright = "©2016 Eliot Whalan. Except where otherwise noted, verbatim copying and distribution of this entire article are permitted worldwide, without royalty, in any medium, provided this notice is preserved."
